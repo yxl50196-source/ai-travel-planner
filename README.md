@@ -13,6 +13,14 @@
 - 🐳 一键部署（Docker + GitHub Actions）
 
 ---
+### 安装 ffmpeg
+
+本项目依赖 ffmpeg，请在本地自行下载并放置在 `backend/ffmpeg/` 文件夹中。
+
+1. 下载地址：
+   - [ffmpeg 官方网站](https://ffmpeg.org/download.html)
+2. 解压并将 `ffmpeg.exe` 放入 `backend/ffmpeg/`
+3. 确保路径正确，无需将 ffmpeg.exe 提交到 GitHub
 
 ## 🚀 快速运行
 

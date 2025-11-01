@@ -18,7 +18,8 @@
 本项目依赖 ffmpeg，请在本地自行下载并放置在 `backend/ffmpeg/` 文件夹中。
 
 1. 下载地址：
-   - [ffmpeg 官方网站](https://ffmpeg.org/download.html)
+   - 通过网盘分享的文件：ffmpeg.exe
+链接: https://pan.baidu.com/s/13gFSI_15giSi4TrH3zmIoQ?pwd=gku7 提取码: gku7
 2. 解压并将 `ffmpeg.exe` 放入 `backend/ffmpeg/`
 3. 确保路径正确，无需将 ffmpeg.exe 提交到 GitHub
 

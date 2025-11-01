@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "muster": "^0.9.3"
+  }
+}
